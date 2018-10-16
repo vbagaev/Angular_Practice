@@ -1,5 +1,16 @@
 # HomeMoney
 
+На компьютере глобально установлены следующие пакеты необходимые для этого проекта:
+
+@angular/cli@1.0.1
+
+typescript@2.4.1
+
+webpack@4.18.0
+
+webpack-dev-server@3.1.8
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Development server
