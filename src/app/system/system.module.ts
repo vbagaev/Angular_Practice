@@ -7,10 +7,13 @@ import {PlanningPageComponent} from './planning-page/planning-page.component';
 import {RecordsPageComponent} from './records-page/records-page.component';
 import {HistoryPageComponent} from './history-page/history-page.component';
 import {SystemComponent} from './system.component';
+import { SidebarComponent } from './shared/components/sidebar/sidebar.component';
+import { HeaderComponent } from './shared/components/header/header.component';
+
 
 @NgModule({
   imports: [CommonModule, SharedModule, SystemRoutingModule],
-  declarations: [BillPageComponent, PlanningPageComponent, RecordsPageComponent, HistoryPageComponent, SystemComponent]
+  declarations: [BillPageComponent, PlanningPageComponent, RecordsPageComponent, HistoryPageComponent, SystemComponent, SidebarComponent, HeaderComponent]
 })
 
 export class SystemModule {
