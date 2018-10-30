@@ -80,6 +80,61 @@
       "id": 3,
       "name": "Машина",
       "capacity": 7000
+    },
+    {
+      "name": "5",
+      "capacity": 1,
+      "id": 4
+    },
+    {
+      "name": "54",
+      "capacity": 8,
+      "id": 5
+    },
+    {
+      "name": "54",
+      "capacity": 8,
+      "id": 6
+    },
+    {
+      "name": "",
+      "capacity": 1,
+      "id": 7
+    },
+    {
+      "name": null,
+      "capacity": 1,
+      "id": 8
+    },
+    {
+      "name": "j",
+      "capacity": 1,
+      "id": 9
+    },
+    {
+      "name": null,
+      "capacity": 1,
+      "id": 10
+    },
+    {
+      "name": null,
+      "capacity": 1,
+      "id": 11
+    },
+    {
+      "name": null,
+      "capacity": 1,
+      "id": 12
+    },
+    {
+      "name": null,
+      "capacity": 1,
+      "id": 13
+    },
+    {
+      "name": null,
+      "capacity": 1,
+      "id": 14
     }
   ],
   "events": [
